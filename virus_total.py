@@ -3,7 +3,7 @@ import hashlib
 import argparse
 import json
 
-API_KEY = '4cc6fb215bbb42d8eea1e0f6d8904bf616d936ecc295bf0856a8bda8d6114f87'
+API_KEY = 'YOUR_API_KEY'
 
 
 def write_to_text_file(value):
